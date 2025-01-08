@@ -1,7 +1,7 @@
 {
   "name": "ProyectoRepositorio",
-  "projectId": "0d41424f-556c-4fba-9983-9de20b240a67",
-  "description": "Pruebas pipeline Jenkins",
+  "projectId": "5e3eab0e-c783-43e0-bba0-df3687ee7550",
+  "description": "pruebas pipeline",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.System.Activities": "[24.10.7]"
@@ -46,7 +46,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "ee1bf3f9-ff1b-4cec-afc4-d6ab0d7c9071",
+      "uniqueId": "55dcff3d-f446-4c23-8c01-5d5fe33eaf79",
       "input": [],
       "output": []
     }
